@@ -19,5 +19,8 @@
   "homepage": "https://github.com/cyril392/DevOpsCA2020#readme",
   "devDependencies": {
     "should": "^13.2.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
