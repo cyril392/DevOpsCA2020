@@ -1,0 +1,22 @@
+{
+  "name": "devopsca2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyril392/DevOpsCA2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyril392/DevOpsCA2020/issues"
+  },
+  "homepage": "https://github.com/cyril392/DevOpsCA2020#readme",
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
+}
